@@ -1,0 +1,15 @@
+short: Miri
+title: Miri
+original_title: Miri README
+seo_title: Miri（Rust の未定義動作検出ツール「Miri」公式 README 日本語訳）
+summary: Rust の未定義動作（undefined behavior）を検出するインタプリタ「Miri」の公式 README の、非公式な日本語訳。使い方、別のターゲット向けの実行、CI での実行、対応しているターゲット、-Z フラグと環境変数、Miri が見つけたバグの一覧を全文訳している。
+author: Miri の貢献者（The Rust Project）
+source: https://github.com/rust-lang/miri
+license: MIT または Apache-2.0
+license_url: https://github.com/rust-lang/miri/blob/master/LICENSE-MIT
+version: 2026-11-21 時点（コミット f285a9d）
+translated: 2026-11-22
+disclaimer: Miri の開発チーム・Rust Project・Rust Foundation とは提携していません。
+nav: []
+chapters:
+  - {file: guide.html, title: Miri}
