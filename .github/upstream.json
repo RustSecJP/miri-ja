@@ -1,0 +1,12 @@
+{
+  "upstreams": [
+    {
+      "repo": "rust-lang/miri",
+      "branch": "master",
+      "paths": [
+        "README.md"
+      ],
+      "base": "f285a9dc42f3dfd46f81de66cba5907c665478bb"
+    }
+  ]
+}
